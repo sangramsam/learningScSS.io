@@ -1,0 +1,108 @@
+.profile-img {
+  border-radius: 999px;
+  height: 200px;
+  width: 200px;
+  border: 5px solid mediumvioletred; }
+
+.app .navbar {
+  margin-bottom: 0px !important;
+  border-radius: 0px; }
+.app .navbar-default {
+  border: none !important; }
+.app .beroe-nav {
+  min-height: 76px !important;
+  background-color: #5F52A1 !important; }
+  .app .beroe-nav a {
+    color: white !important;
+    padding: 10px 12px 12px; }
+    .app .beroe-nav a:hover {
+      text-decoration: none; }
+  .app .beroe-nav .navbar-header {
+    margin-top: 24px; }
+.app .topnav {
+  background-color: #443E6F;
+  padding-top: 13px;
+  min-height: 47px;
+  box-shadow: 0 3px 4px 0 #74769E; }
+  .app .topnav ul li {
+    display: inline-block;
+    list-style: none; }
+    .app .topnav ul li a {
+      padding-right: 24px;
+      color: white;
+      font-size: 16px;
+      letter-spacing: 0.17px;
+      line-height: 19px;
+      text-decoration: none; }
+.app .search {
+  margin-top: 32px; }
+  .app .search ul li {
+    display: inline-block;
+    list-style: none; }
+    .app .search ul li input {
+      background: #FFFFFF;
+      border: 1px solid #E9E9E9;
+      border-radius: 3px;
+      min-height: 46px;
+      min-width: 447px;
+      background-image: url("img/search.png");
+      background-repeat: no-repeat;
+      background-size: 30px 31px; }
+    .app .search ul li input::placeholder {
+      font-family: OpenSans;
+      font-size: 14px;
+      color: #ACACAC;
+      letter-spacing: 0.12px;
+      padding-left: 50px; }
+    .app .search ul li .OR {
+      font-family: OpenSans;
+      font-size: 13px;
+      color: #ACACAC;
+      letter-spacing: 0.11px;
+      padding: 20px; }
+    .app .search ul li .searchBtn, .app .search ul li .subcribebtn {
+      background: #FFFFFF;
+      border: 1px solid #E9E9E9;
+      border-radius: 3px;
+      min-height: 46px;
+      min-width: 155.8px;
+      font-size: 14px;
+      color: #5F52A1;
+      letter-spacing: 0.12px; }
+  .app .search .heading {
+    font-family: Titillium-Semibold;
+    font-size: 20px;
+    color: #686670;
+    letter-spacing: 0.21px;
+    margin-left: 0px;
+    margin-top: 10px; }
+  .app .search .available {
+    font-family: OpenSans-Semibold;
+    font-size: 14px;
+    color: #5F52A1;
+    letter-spacing: 0.12px; }
+  .app .search .subcribebtn {
+    background: #5F52A1 !important;
+    border-radius: 3px;
+    color: white !important; }
+  .app .search .card {
+    background: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    border-radius: 3px;
+    min-height: 118px;
+    min-width: 270px;
+    padding: 10px;
+    padding-top: 19px; }
+    .app .search .card .solidbox {
+      background: #E9B765;
+      border-radius: 3px;
+      min-height: 41px;
+      min-width: 42.8px; }
+    .app .search .card p {
+      font-family: Montserrat-Regular;
+      font-size: 16px;
+      color: #221E39;
+      letter-spacing: 0.17px;
+      margin-top: 10px; }
+
+/*# sourceMappingURL=main.css.map */
